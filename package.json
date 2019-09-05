@@ -1,0 +1,23 @@
+{
+  "name": "hackerrank-js",
+  "version": "1.0.0",
+  "description": "HackerRank solutions using JavaScript tested with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djhojd/hackerrank-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djhojd/hackerrank-js/issues"
+  },
+  "homepage": "https://github.com/djhojd/hackerrank-js#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}

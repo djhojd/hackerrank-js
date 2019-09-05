@@ -1,2 +1,3 @@
 # hackerrank-js
-My Hackerrank solutions using JavaScript
+
+HackerRank solutions using JavaScript tested with Jest
